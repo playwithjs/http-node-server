@@ -1,0 +1,19 @@
+{
+  "name": "http-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playwithjs/http-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/playwithjs/http-node-server/issues"
+  },
+  "homepage": "https://github.com/playwithjs/http-node-server#readme"
+}
